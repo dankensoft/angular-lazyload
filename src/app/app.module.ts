@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+// Rutas Principales
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
